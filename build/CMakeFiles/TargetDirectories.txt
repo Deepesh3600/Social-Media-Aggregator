@@ -1,0 +1,3 @@
+/Users/shruti/Desktop/social_media_aggregator/build/CMakeFiles/social_media_aggregator.dir
+/Users/shruti/Desktop/social_media_aggregator/build/CMakeFiles/edit_cache.dir
+/Users/shruti/Desktop/social_media_aggregator/build/CMakeFiles/rebuild_cache.dir
